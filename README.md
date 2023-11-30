@@ -21,7 +21,7 @@ github user : Joseph03V
 joey03v@gmail.com
 
 ## Live Screenshot
-![Alt text](<./lib/Screenshot 2023-11-29 230431.png>)
+![Alt text](</lib/Screenshot 2023-11-29 230431.png>)
 
 
 ## Tutorial
